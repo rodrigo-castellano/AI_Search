@@ -4,5 +4,5 @@ pypiwin32
 kivy_deps.sdl2==0.1.*
 kivy_deps.glew==0.1.*
 Kivy==1.11.0
-numpy==1.16.4
+numpy==1.22.0
 PyYAML==5.4
